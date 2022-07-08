@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lios.javasearch.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lios.javasearch.MyBundle
 
 class MyApplicationService {
 
